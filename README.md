@@ -1,3 +1,4 @@
+# GenAI-DocBot
 ## Overview
 This project is a demonstration of the concepts and skills I acquired from the Udemy course "Generative AI for Beginners." It showcases the development of a generative AI chatbot using OpenAI APIs, trained with specific documentation to answer questions based on that information.
 
